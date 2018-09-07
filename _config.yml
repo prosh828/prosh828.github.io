@@ -1,1 +1,7 @@
+# Site settings
+title: Seho Kim blog
+description: Deep Learning, Reinforcement Learning, Recommendation Systems, NLP, and etc.
+email: prosh828@gmail.com
+show_downloads: false
+google_analytics:
 theme: jekyll-theme-cayman
