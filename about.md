@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "about pages"
+title: "About"
 ---
 
 ### Bio
