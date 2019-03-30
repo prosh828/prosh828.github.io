@@ -25,10 +25,16 @@
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
-      <div class="trigger">
-	<a class="page-link" href="/index/" style=" font: bold 1.5em/1em; color: white;">Home</a>
-        <a class="page-link" href="/posts/" style=" font: bold 1.5em/1em; color: white;">Posts</a>
-	<a class="page-link" href="/about/" style=" font: bold 1.5em/1em; color: white;">About</a>
+      <div class="content">
+        <div class="trigger">
+	  <a class="page-link" href="/index/" style=" font: bold 1.5em/1em; color: white;">Home</a>
+        </div>
+        <div class="trigger">
+          <a class="page-link" href="/posts/" style=" font: bold 1.5em/1em; color: white;">Posts</a>
+        </div>
+        <div class="trigger">
+	  <a class="page-link" href="/about/" style=" font: bold 1.5em/1em; color: white;">About</a>
+        </div>
       </div>
       {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
