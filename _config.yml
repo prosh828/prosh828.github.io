@@ -8,9 +8,6 @@ theme: jekyll-theme-cayman
 
 url: https://prosh828.github.io/
 baseurl: ""
-permalink: blog/:title/
-
-markdown: kramdown
 
 navigation:
  - title: Home
