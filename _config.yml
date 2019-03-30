@@ -5,3 +5,15 @@ email: prosh828@gmail.com
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
+
+url: https://prosh828.github.io/
+baseurl: ""
+permalink: blog/:title/
+
+markdown: kramdown
+
+navigation:
+ - title: Home
+   url: /index.html
+ - title: About
+   url: /about
