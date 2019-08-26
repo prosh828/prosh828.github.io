@@ -1,1 +1,5 @@
 *.swp
+Gemfile.lock
+*.scssc
+_site/*
+_posts/_private/*
