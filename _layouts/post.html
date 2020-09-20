@@ -5,3 +5,7 @@ layout: default
 {{ content }}
 
 <p>{{ page.date }} - Written by {{ page.author }}</p>
+
+{% if page.comments %}
+  {% include comments.html %}
+{% endif %}

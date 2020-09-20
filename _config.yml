@@ -3,8 +3,9 @@ title: Seho Kim blog
 description: Deep Learning, Reinforcement Learning, Recommendation Systems, NLP, and etc.
 email: prosh828@gmail.com
 show_downloads: false
-google_analytics:
+google_analytics: UA-178475245-1
 theme: jekyll-theme-cayman
+#disqus-shortname: prosh-2
 
 url: https://prosh828.github.io/
 baseurl: ""
