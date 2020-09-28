@@ -7,7 +7,7 @@ google_analytics: UA-178475245-1
 theme: jekyll-theme-cayman
 #disqus-shortname: prosh-2
 
-url: https://prosh828.github.io/
+url: https://prosh828.github.io
 baseurl: ""
 
 navigation:
@@ -15,3 +15,5 @@ navigation:
    url: /index
  - title: About
    url: /about
+ - title: Posts
+   url: /posts
